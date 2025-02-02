@@ -1,0 +1,23 @@
+[
+  {
+    "id": "grammar_ep1",
+    "title": "Grammar Ep. 1",
+    "price": 1.99,
+    "imageURL": "https://example.com/images/grammar1.jpg",
+    "audioURL": "https://example.com/audio/grammar1.mp3"
+  },
+  {
+    "id": "grammar_ep2",
+    "title": "Grammar Ep. 2",
+    "price": 1.99,
+    "imageURL": "https://example.com/images/grammar2.jpg",
+    "audioURL": "https://example.com/audio/grammar2.mp3"
+  },
+  {
+    "id": "vocab_ep1",
+    "title": "Vocabulary Ep. 1",
+    "price": 2.49,
+    "imageURL": "https://example.com/images/vocab1.jpg",
+    "audioURL": "https://example.com/audio/vocab1.mp3"
+  }
+]
