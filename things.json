@@ -1,23 +1,23 @@
 [
   {
-    "id": "grammar_ep1",
-    "title": "Grammar Ep. 1",
-    "price": 1.99,
-    "imageURL": "https://example.com/images/grammar1.jpg",
-    "audioURL": "https://example.com/audio/grammar1.mp3"
+    "class": "vocab",
+    "title": "L'Alba tra le Vette Incantate",
+    "price": 0.49,
+    "imageURL": "https://github.com/Vavutter/Dls/blob/main/hike.png",
+    "audioURL": "https://github.com/Vavutter/Dls/raw/refs/heads/main/hike.mp3"
   },
   {
-    "id": "grammar_ep2",
-    "title": "Grammar Ep. 2",
-    "price": 1.99,
-    "imageURL": "https://example.com/images/grammar2.jpg",
-    "audioURL": "https://example.com/audio/grammar2.mp3"
+    "class": "vocab",
+    "title": "Il Risveglio della Città Antica",
+    "price": 0.49,
+    "imageURL": "https://github.com/Vavutter/Dls/blob/main/city.png",
+    "audioURL": "https://github.com/Vavutter/Dls/raw/refs/heads/main/country.mp3"
   },
   {
-    "id": "vocab_ep1",
-    "title": "Vocabulary Ep. 1",
-    "price": 2.49,
-    "imageURL": "https://example.com/images/vocab1.jpg",
-    "audioURL": "https://example.com/audio/vocab1.mp3"
+    "class": "vocab",
+    "title": "Sentieri Dorati tra Colline e Mare",
+    "price": 0.49,
+    "imageURL": "https://github.com/Vavutter/Dls/blob/main/country.png",
+    "audioURL": "https://github.com/Vavutter/Dls/raw/refs/heads/main/country.mp3"
   }
 ]
