@@ -1,5 +1,6 @@
 [
   {
+    "productID": "com.aurale.vocab.alba",
     "class": "vocab",
     "title": "L'Alba tra le Vette Incantate",
     "price": 0.49,
@@ -7,17 +8,19 @@
     "audioURL": "https://github.com/Vavutter/Dls/raw/refs/heads/main/hike.mp3"
   },
   {
+    "productID": "com.aurale.vocab.citta",
     "class": "vocab",
     "title": "Il Risveglio della Città Antica",
     "price": 0.49,
-    "imageURL": "https://github.com/Vavutter/Dls/blob/main/city.png",
+    "imageURL": "https://raw.githubusercontent.com/Vavutter/Dls/refs/heads/main/city.png",
     "audioURL": "https://github.com/Vavutter/Dls/raw/refs/heads/main/country.mp3"
   },
   {
+    "productID": "com.aurale.vocab.sentieri",
     "class": "vocab",
     "title": "Sentieri Dorati tra Colline e Mare",
     "price": 0.49,
-    "imageURL": "https://github.com/Vavutter/Dls/blob/main/country.png",
+    "imageURL": "https://raw.githubusercontent.com/Vavutter/Dls/refs/heads/main/country.png",
     "audioURL": "https://github.com/Vavutter/Dls/raw/refs/heads/main/country.mp3"
   }
 ]
